@@ -1,9 +1,11 @@
+<<<<<<< HEAD
 ### Hi there, I'm Baqir Ali 👋
 
-### I am currently a 
+### I am currently working as working as a freelance programmer and as a blogger
+================================================================================
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
+[![blog](https://img.shields.io/website?label=codemodes.com&style=for-the-badge&url=https%3A%2F%2Fcodemodes.com)](https://codemodes.com)
+[![Website](https://img.shields.io/website?label=softnat.com&style=for-the-badge&url=http%3A%2F%2Fsoftnat.com)](http://softnat.com)
 
 ## I'm a Husband, Father, Developer, and Teacher!!
 
