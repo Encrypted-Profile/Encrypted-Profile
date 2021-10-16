@@ -64,14 +64,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-<<<<<<< HEAD
-=======
-- [Front End Web Developer](https://www.codemodes.com/front-end-web-developer/)
-- [The Output Clause in SQL SERVER](https://www.codemodes.com/the-output-clause-in-sql-server/)
-- [Truncate Table in SQL Server](https://www.codemodes.com/truncate-table-in-sql-server/)
-- [Delete in SQL Server](https://www.codemodes.com/delete-in-sql-server/)
-- [Update Query in SQL Server](https://www.codemodes.com/update-query-in-sql-server/)
->>>>>>> 499a438ec87a224c35495fafd82c51fb5e19d819
+- [Beautiful User Interface in C# with Hexagon Buttons](https://www.youtube.com/watch?v=bDmi0SieZW0)
+- [Sign up Form with Database in C# Part 3](https://www.youtube.com/watch?v=AyPn2sZxtys)
+- [Sign up Form with Database in C# Part 2](https://www.youtube.com/watch?v=BKkCa7D-9vI)
+- [Sign up Form with Database in C# Part 1](https://www.youtube.com/watch?v=KM0Z0YuwTx0)
+- [How to use Printf Scanf in C](https://www.youtube.com/watch?v=i1M0eyR2Bmw)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://codemodes.com)
