@@ -55,6 +55,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Beautiful User Interface in C# with Hexagon Buttons](https://www.youtube.com/watch?v=bDmi0SieZW0)
+- [Sign up Form with Database in C# Part 3](https://www.youtube.com/watch?v=AyPn2sZxtys)
+- [Sign up Form with Database in C# Part 2](https://www.youtube.com/watch?v=BKkCa7D-9vI)
+- [Sign up Form with Database in C# Part 1](https://www.youtube.com/watch?v=KM0Z0YuwTx0)
+- [How to use Printf Scanf in C](https://www.youtube.com/watch?v=i1M0eyR2Bmw)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/c/CodeModesvideos/videos)
