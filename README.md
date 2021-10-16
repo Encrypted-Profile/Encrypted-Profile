@@ -1,6 +1,6 @@
 ### Hi there, I'm Baqir Ali 👋
 
-### Found Softnat Technologies in 2014 * Worked with hundreds of customers locally and internationally * Developed about 50+ desktop and web applications * My Top applications are POS software for Departmental Stores, Restaurants and School Management System * Found codemodes.com where I publish articles about programming skills and projects. For the last 7-8 years I have been working with different technologies related to desktop, web based as well as mobile based.
+#### 👑 I Found Softnat Technologies in 2014 🌟 Worked with hundreds of customers locally and internationally 🌟 Developed about 50+ desktop and web applications 🌟 My Top applications are POS software for Departmental Stores, Restaurants and School Management System 🌟 Found codemodes.com where I publish articles about programming skills and projects 🌟 For the last 7-8 years I have been working with different technologies related to desktop, web based as well as mobile based 🌟
 =========================
 
 [![blog](https://img.shields.io/website?label=codemodes.com&style=for-the-badge&url=https%3A%2F%2Fcodemodes.com)](https://codemodes.com)
