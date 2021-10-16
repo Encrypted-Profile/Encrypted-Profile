@@ -1,26 +1,25 @@
 ### Hi there, I'm Baqir Ali 👋
 
 #### 👑 I Found Softnat Technologies in 2014 🌟 Worked with hundreds of customers locally and internationally 🌟 Developed about 50+ desktop and web applications 🌟 My Top applications are POS software for Departmental Stores, Restaurants and School Management System 🌟 Found codemodes.com where I publish articles about programming skills and projects 🌟 For the last 7-8 years I have been working with different technologies related to desktop, web based as well as mobile based 🌟
-=========================
+=====================================
 
 [![blog](https://img.shields.io/website?label=codemodes.com&style=for-the-badge&url=https%3A%2F%2Fcodemodes.com)](https://codemodes.com)
 [![Website](https://img.shields.io/website?label=softnat.com&style=for-the-badge&url=http%3A%2F%2Fsoftnat.com)](http://softnat.com)
 
 ## I'm a Husband, Father, Developer, and Teacher!!
 
-- 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
-- 🌱 I’m currently learning everything 🤣
+- 🔭 Visit my blog and share with your friends [CODEMODES][blog]!
+- 🌱 Looking forward to working with a new team and a new software house 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love playing CSGO
+- 🥅 Love to study abroad
+- ⚡ Fun fact: I love playing CSGO 🔫
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Encrypted-Profile" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][blog]
+[<img align="left" alt="Encrypted-Profile | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="Encrypted-Profile | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Encrypted-Profile" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 
 <br />
 
@@ -98,11 +97,5 @@
 
 [blog]: https://codemodes.com
 [website]: http://softnat.com
-[twitter]: https://twitter.com/codeSTACKr
-[youtube]: https://youtube.com/codeSTACKr
-[instagram]: https://instagram.com/codeSTACKr
-[linkedin]: https://linkedin.com/in/codeSTACKr
-[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
-[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
-[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
-[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
+[youtube]: https://www.youtube.com/c/CodeModesvideos/videos
+[linkedin]: https://www.linkedin.com/in/baqir-ali-918790213/
