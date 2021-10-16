@@ -6,7 +6,7 @@
 [![blog](https://img.shields.io/website?label=codemodes.com&style=for-the-badge&url=https%3A%2F%2Fcodemodes.com)](https://codemodes.com)
 [![Website](https://img.shields.io/website?label=softnat.com&style=for-the-badge&url=http%3A%2F%2Fsoftnat.com)](http://softnat.com)
 
-## I'm a Husband, Father, Developer, and Teacher!!
+# I'm a Husband, Father, Developer, and Teacher!!
 
 - 🔭 Visit my blog and share with your friends [CODEMODES][blog]!
 - 🌱 Looking forward to working with a new team and a new software house 🤣
