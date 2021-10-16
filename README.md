@@ -1,6 +1,8 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=baqir-ali.encrypted-profile" />
 
-### Hi there, I'm Baqir Ali 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&color=%23F332DF&size=35&lines=Hello+Friends!;Welcome+to+my+profile;Let's+know+eachother)](https://git.io/typing-svg)
+
+<hr>
 
 #### 👑 I Found Softnat Technologies in 2014 🌟 Worked with hundreds of customers locally and internationally 🌟 Developed about 50+ desktop and web applications 🌟 My Top applications are POS software for Departmental Stores, Restaurants and School Management System 🌟 Found codemodes.com where I publish articles about programming skills and projects 🌟 For the last 7-8 years I have been working with different technologies related to desktop, web based as well as mobile based 🌟
 =====================================
