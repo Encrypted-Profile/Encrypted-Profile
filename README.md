@@ -1,11 +1,12 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=baqir-ali.encrypted-profile" />
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&color=%23F332DF&size=35&lines=Hello+Friends!;Welcome+to+my+profile;Let's+know+eachother)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&color=%23F332DF&size=35&lines=Hello+Friends!;Welcome+to+my+profile;Let's+know+each+other)](https://git.io/typing-svg)
 
 <hr>
 
 #### 👑 I Found Softnat Technologies in 2014 🌟 Worked with hundreds of customers locally and internationally 🌟 Developed about 50+ desktop and web applications 🌟 My Top applications are POS software for Departmental Stores, Restaurants and School Management System 🌟 Found codemodes.com where I publish articles about programming skills and projects 🌟 For the last 7-8 years I have been working with different technologies related to desktop, web based as well as mobile based 🌟
-=====================================
+
+<hr>
 
 [![blog](https://img.shields.io/website?label=codemodes.com&style=for-the-badge&url=https%3A%2F%2Fcodemodes.com)](https://codemodes.com)
 [![Website](https://img.shields.io/website?label=softnat.com&style=for-the-badge&url=http%3A%2F%2Fsoftnat.com)](http://softnat.com)
@@ -68,14 +69,10 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [How To Pass Application Tracking Systems (ATS) & Get Interviews - Resume Tips for Software Developer](https://dev.to/codestackr/how-to-pass-application-tracking-systems-ats-get-interviews-resume-tips-for-software-developer-4bmo)
-- [Microinteractions: Password Validation Animation](https://dev.to/codestackr/microinteractions-password-validation-animation-5629)
-- [Notion + YouTube - A Powerful Combination for Productivity](https://dev.to/codestackr/notion-youtube-a-powerful-combination-for-productivity-1def)
-- [Regular Expressions (RegEx) Crash Course](https://dev.to/codestackr/regular-expressions-regex-crash-course-248n)
-- [Emmet Part 2 - Advanced](https://dev.to/codestackr/emmet-part-2-advanced-4c65)
+
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [more blog posts...](https://codestackr.com)
+➡️ [more blog posts...](https://codemodes.com)
 
 ---
 
