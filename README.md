@@ -1,8 +1,7 @@
-<<<<<<< HEAD
 ### Hi there, I'm Baqir Ali 👋
 
-### I am currently working as working as a freelance programmer and as a blogger
-================================================================================
+### I am currently working as working as a freelance programmer and as a blogger I have many products on sale in the market. My top products are Store Point of sale and Restaurant point of sale.
+=========================
 
 [![blog](https://img.shields.io/website?label=codemodes.com&style=for-the-badge&url=https%3A%2F%2Fcodemodes.com)](https://codemodes.com)
 [![Website](https://img.shields.io/website?label=softnat.com&style=for-the-badge&url=http%3A%2F%2Fsoftnat.com)](http://softnat.com)
