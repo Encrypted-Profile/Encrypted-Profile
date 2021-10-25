@@ -69,11 +69,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [What is C#](https://www.codemodes.com/what-is-c/)
 - [Front End Web Developer](https://www.codemodes.com/front-end-web-developer/)
 - [The Output Clause in SQL SERVER](https://www.codemodes.com/the-output-clause-in-sql-server/)
 - [Truncate Table in SQL Server](https://www.codemodes.com/truncate-table-in-sql-server/)
 - [Delete in SQL Server](https://www.codemodes.com/delete-in-sql-server/)
-- [Update Query in SQL Server](https://www.codemodes.com/update-query-in-sql-server/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://codemodes.com)
