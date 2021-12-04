@@ -69,11 +69,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to print barcode label with Zebra Printer](https://www.codemodes.com/how-to-print-barcode-label-with-zebra-printer/)
 - [How to print barcode label with TSC Printer](https://www.codemodes.com/how-to-print-barcode-label-with-tsc-printer/)
 - [What is C#](https://www.codemodes.com/what-is-c/)
 - [Front End Web Developer](https://www.codemodes.com/front-end-web-developer/)
 - [The Output Clause in SQL SERVER](https://www.codemodes.com/the-output-clause-in-sql-server/)
-- [Truncate Table in SQL Server](https://www.codemodes.com/truncate-table-in-sql-server/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://codemodes.com)
